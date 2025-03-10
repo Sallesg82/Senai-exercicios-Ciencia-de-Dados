@@ -11,7 +11,7 @@ num = int(input('Digite um número: '))
 num1 = 0
 num2 = 1
 
-proxNum = num2  
+proxNum = num1 
 contador = 1
 
 while contador <= num:
@@ -22,5 +22,3 @@ while contador <= num:
     if proxNum > num:
         break
 print()
-
-#VOLTE AQUI
